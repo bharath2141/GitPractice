@@ -1,11 +1,12 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: 'z43w4t',
+  projectId: 'qtt8tb',
   chromeWebSecurity: false,
   defaultCommandTimeout:8000,
   env:
   {
+    
     url: "https://rahulshettyacademy.com/angularpractice/"
   },
  
